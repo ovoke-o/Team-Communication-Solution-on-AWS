@@ -1,4 +1,5 @@
 ## Scenario: Solving the Team communication and instant messaging problem
+<h4>Course: Cloud Computing on AWS</h4>
 
 <p>Implemented a team communication solution using Mattermost and AWS. This is a scalable solution that can be hosted on a public cloud, with its servers, storage etc. completely managed and controlled by an IT team in accordance with a company’s governance and security requirements.</p>
 
@@ -99,7 +100,7 @@
 </p>
 </ul>
 
-### 🛠️ Services & Tools
+### 🛠️ Skills & Tools Covered
 <p>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
