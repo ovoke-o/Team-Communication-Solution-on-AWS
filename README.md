@@ -7,7 +7,7 @@
 ## 🧰 Architecture diagram
 <p align="center">
   <!-- Replace with your own GIF or image -->
-  <img src="img-1.jpg" alt="Java Selenium animation" width="900">
+  <img src="img/img-1.jpg" alt="Java Selenium animation" width="900">
 </p>
 
 ## 🧰 Architecture Implementation
@@ -60,9 +60,9 @@
 
   <p align="center">
   <!-- Replace with your own GIF or image -->
-     <img src="img-2.png" alt="Java Selenium animation" width="900">
-     <img src="img-3.png" alt="Java Selenium animation" width="900">
-     <img src="img-4.png" alt="Java Selenium animation" width="900">
+     <img src="img/img-2.png" alt="Java Selenium animation" width="900">
+     <img src="img/img-3.png" alt="Java Selenium animation" width="900">
+     <img src="img/img-4.png" alt="Java Selenium animation" width="900">
 </p>
 </ul>
 
@@ -72,22 +72,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="EC2.png" alt="aws" width="40" height="40"/>
+    <img src="img/EC2.png" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="Virtual Private Cloud.png" alt="aws" width="40" height="40"/>
+    <img src="img/Virtual Private Cloud.png" alt="aws" width="40" height="40"/>
   </a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="Security Hub.png" alt="aws" width="40" height="40"/>
+    <img src="img/Security Hub.png" alt="aws" width="40" height="40"/>
   </a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="Transit Gateway.png" alt="aws" width="40" height="40"/>
+    <img src="img/Transit Gateway.png" alt="aws" width="40" height="40"/>
   </a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="RDS.png" alt="aws" width="40" height="40"/>
+    <img src="img/RDS.png" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="Network Firewall.png" alt="aws" width="40" height="40"/>
+    <img src="img/Network Firewall.png" alt="aws" width="40" height="40"/>
   </a>
 </p>
 
