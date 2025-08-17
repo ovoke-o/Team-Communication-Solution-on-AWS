@@ -66,6 +66,39 @@
 </p>
 </ul>
 
+## 🧰Step 1 (b): Creation of Public Subnet
+<ul>
+  <li>
+    <p>Navigate to VPC -> Subnets</p>
+  </li>
+  <li>
+    <p>Click on "Create Subnet"</p>
+  </li>
+   <li>
+    <p>Enter the following fields:
+            - Name: Public Subnet</li>
+            - VPC: Select the Project 1 VPC</li>  
+            - IPv4 CIDR Block: 10.0.1.0/24
+            -  The rest of the options can be ignored.</p>
+  </li>
+  <li>
+    <p> Click on "Create".</p>
+  </li>
+   <li>
+    <p> Once the subnet has been created, select the subnet, and click on Actions->Modify Auto-assign IP settings.</p>
+  </li>
+  <li>
+    <p> Enable the option "Auto assign IPv4" and select Save.</p>
+  </li>
+
+  <p align="center">
+  <!-- Replace with your own GIF or image -->
+     <img src="img/sub-1.png" alt="Java Selenium animation" width="900">
+     <img src="img/sub-2.png" alt="Java Selenium animation" width="900">
+<!--      <img src="img/img-4.png" alt="Java Selenium animation" width="900"> -->
+</p>
+</ul>
+
 ### 🛠️ Languages & Tools
 <p>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
