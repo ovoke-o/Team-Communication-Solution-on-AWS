@@ -71,13 +71,18 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="aws" width="40" height="40"/>
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="EC2.png" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="Virtual Private Cloud.png" alt="aws" width="40" height="40"/>
   </a>
-  
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="Security Hub.png" alt="aws" width="40" height="40"/>
+  </a>
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="Transit Gateway.png" alt="aws" width="40" height="40"/>
+  </a>
 </p>
 
 
